@@ -7,7 +7,7 @@ function App() {
   const authDemoAppGcloudHostedNotSecure = "http://test-production-build-with-ssr.appspot.com"
   const authDemoAppUrl = "https://boring-lewin-b8cd3f.netlify.com/";
   const gcloudUrl = "https://devenv-259801.appspot.com/reg"
-  const gcloudUrlSec = "https://devenv-259801.appspot.com/gcloudSec"
+  const gcloudUrlSecure = "https://devenv-259801.appspot.com/gcloudSec"
   const gcloudUrlUnsec = "https://devenv-259801.appspot.com/gcloudUnsec"
   const namedTarget = "named_frame";
   const form1_handlder = form => {
