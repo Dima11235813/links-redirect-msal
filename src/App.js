@@ -25,7 +25,7 @@ function App() {
         </div>
         <div>
           <a href={authDemoAppUrl} target="_blank" rel="noopener noreferrer">
-            No Opener New Tab
+            No Referrer and No Opener New Tab
           </a>
         </div>
         <div>
